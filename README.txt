@@ -40,5 +40,5 @@ Feedback
 ------------------------------------------------------------------
 
 If you have any comment, suggestion, or question, please do
-contact Yifei Lou at: first.last@utdallas.edu
+contact Yifei Lou at: yflou@unc.edu
 
